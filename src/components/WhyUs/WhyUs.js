@@ -6,7 +6,7 @@ const WhyUs = () => {
         <div className='bg-slate-100  py-32 px-2 '>
             <div className='py-10 px-2'>
                 <h2 className="mb-14 section-title text-center font-semibold text-2xl md:text-4xl lg:text-6xl">
-                    Why Choose <span className="text-primary">Online Bank BD</span>
+                    Why Choose <span className="text-primary">Online Services</span>
                 </h2>
             </div>
 
